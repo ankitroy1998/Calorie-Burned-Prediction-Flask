@@ -2,5 +2,3 @@ Flask
 Gunicorn
 joblib
 sklearn
-matplotlib
-seaborn
