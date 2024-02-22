@@ -14,7 +14,7 @@ def predict():
         height = float(data["Height"])
         weight = float(data["Weight"])
         duration = float(data["Duration"])
-        heart_rate = float(data["Heart Rate"])
+        heart_rate = float(data["HeartRate"])
         temperature = float(data["Temperature"])
 
         # Create a list of features and predict the result
